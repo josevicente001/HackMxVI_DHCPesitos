@@ -19,7 +19,7 @@ Desarrollar una plataforma educativa que ofrezca recursos de aprendizaje en áre
 - Facilitar el acceso a modelos de inteligencia artificial mediante la integración de los mismo a la aplicación.
 
 ## Recursos utilizados
-- Oracle APEX.
+- Oracle APEX 24.1.5
 - OPEN AI - GPT-4o (https://docs.aimlapi.com/) como un asistente virtual.
 
 # La aplicación
